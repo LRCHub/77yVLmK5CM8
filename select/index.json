@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "快盗Vを見逃すな (Game Size)",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-01-12T23:07:46.900121Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "快盗Vを見逃すな Game Size",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_快盗Vを見逃すな_Game_Size_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
